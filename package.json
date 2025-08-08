@@ -17,5 +17,9 @@
     "url": "https://github.com/BrunoMachadoDaRocha/EstudosJS-NodeBasico/issues"
   },
   "homepage": "https://github.com/BrunoMachadoDaRocha/EstudosJS-NodeBasico#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "commander": "^14.0.0"
+  }
 }
